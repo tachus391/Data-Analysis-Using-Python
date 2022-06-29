@@ -1,6 +1,8 @@
 # Data-Analysis-Using-Python
 This repository contains all projects worked on as requirements to complete the course Data Analysis Using Python by the University of Pennsylvania.
 
+It is meant to provide evidence of proficiency in skills including but not limited to:
+
 Using The csv module, Importing data, Reading data, Querying data.
 
 Using The pandas module, Loading data, Inspecting data, Querying data, Joining data, Slicing rows, Querying data using boolean indexing.
